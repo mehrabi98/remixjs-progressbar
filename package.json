@@ -1,0 +1,43 @@
+{
+  "name": "remixjs-progressbar",
+  "version": "1.0.0",
+  "description": "A simple Remix.js progressbar component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "scripts": {
+    "rollup": "rollup -c --bundleConfigAsCjs"
+  },
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrabi98/remixjs-progressbar.git"
+  },
+  "keywords": [
+    "Remix",
+    "Remix.js",
+    "Progressbar"
+  ],
+  "author": "Mohammad Mehrabi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehrabi98/remixjs-progressbar/issues"
+  },
+  "homepage": "https://github.com/mehrabi98/remixjs-progressbar#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.1",
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "@rollup/plugin-typescript": "^11.1.1",
+    "@types/react": "^18.2.12",
+    "rollup": "^3.25.1",
+    "rollup-plugin-dts": "^5.3.0",
+    "tslib": "^2.5.3",
+    "typescript": "^5.1.3"
+  },
+  "peerDependencies": {
+    "@remix-run/react": "^1.17.1",
+    "react": "^18.2.0"
+  }
+}
