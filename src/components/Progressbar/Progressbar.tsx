@@ -1,4 +1,3 @@
-import React from "react";
 import {useNavigation} from "@remix-run/react";
 
 const Progressbar = () => {

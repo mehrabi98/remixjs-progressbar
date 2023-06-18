@@ -14,7 +14,7 @@ After installing the package, import `RemixProgressbar` in your `app/root.tsx`
 ```javascript
 import {RemixProgressbar} from "remixjs-progressbar";
 ```
-And for rendering, add `<RemixProgressbar/>` to your `return()` between `body` tag in `App()`
+And for rendering, add `<RemixProgressbar/>` to your `return()` between `body` tag in `App()`:
 ```javascript
 import {RemixProgressbar} from "remixjs-progressbar";
 
