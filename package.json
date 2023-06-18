@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/mehrabi98/remixjs-progressbar/issues"
   },
-  "homepage": "https://github.com/mehrabi98/remixjs-progressbar#readme",
+  "homepage": "https://remixjs-progressbar.netlify.app",
   "devDependencies": {
     "react": "^18.2.0",
     "@types/react": "^18.2.12",
