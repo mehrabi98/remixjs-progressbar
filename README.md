@@ -2,7 +2,7 @@
 
 A simple Remix.js progressbar component
 
-**Demo**: [https://google.com](https://google.com)
+**Demo**: [https://mehrabi98.github.io/remixjs-progressbar-demo](https://mehrabi98.github.io/remixjs-progressbar-demo)
 
 ## How to install?
 ```sh
